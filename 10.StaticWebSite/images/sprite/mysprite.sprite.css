@@ -1,0 +1,225 @@
+/*
+This is an example of how to use the image sprite in your own CSS files
+*/
+.mysprite {
+    
+    background-image: url('mysprite.sprite.png');
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+    .mysprite.i-1 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -10px;
+    }
+
+    .mysprite.i-2 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -276px;
+    }
+
+    .mysprite.i-3 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -542px;
+    }
+
+    .mysprite.i-4 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -808px;
+    }
+
+    .mysprite.i-5 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -1074px;
+    }
+
+    .mysprite.i-6 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -1340px;
+    }
+
+    .mysprite.i-7 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -1606px;
+    }
+
+    .mysprite.i-8 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -1872px;
+    }
+
+    .mysprite.i-9 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -2138px;
+    }
+
+    .mysprite.i-10 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -2404px;
+    }
+
+    .mysprite.i-11 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -2670px;
+    }
+
+    .mysprite.i-12 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -2936px;
+    }
+
+    .mysprite.i-13 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -3202px;
+    }
+
+    .mysprite.i-14 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -3468px;
+    }
+
+    .mysprite.i-15 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -3734px;
+    }
+
+    .mysprite.i-16 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -4000px;
+    }
+
+    .mysprite.i-17 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -4266px;
+    }
+
+    .mysprite.i-18 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -4532px;
+    }
+
+    .mysprite.i-19 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -4798px;
+    }
+
+    .mysprite.i-20 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -5064px;
+    }
+
+    .mysprite.i-21 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -5330px;
+    }
+
+    .mysprite.i-22 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -5596px;
+    }
+
+    .mysprite.i-23 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -5862px;
+    }
+
+    .mysprite.i-24 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -6128px;
+    }
+
+    .mysprite.i-25 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -6394px;
+    }
+
+    .mysprite.i-26 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -6660px;
+    }
+
+    .mysprite.i-27 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -6926px;
+    }
+
+    .mysprite.i-28 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -7192px;
+    }
+
+    .mysprite.i-29 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -7458px;
+    }
+
+    .mysprite.i-30 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -7724px;
+    }
+
+    .mysprite.i-31 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -7990px;
+    }
+
+    .mysprite.i-32 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -8256px;
+    }
+
+    .mysprite.i-33 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -8522px;
+    }
+
+    .mysprite.i-34 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -8788px;
+    }
+
+    .mysprite.i-35 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -9054px;
+    }
+
+    .mysprite.i-36 {
+        width: 256px;
+        height: 256px;
+        background-position: -10px -9320px;
+    }
