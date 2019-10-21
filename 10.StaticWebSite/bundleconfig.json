@@ -1,9 +1,14 @@
 [
   {
-    
     "outputFileName": "js/index.min.js",
     "inputFiles": [
       "js/index.js"
+    ]
+  },
+  {
+    "outputFileName": "js/a1.min.js",
+    "inputFiles": [
+      "js/a1.js"
     ]
   }
 ]
